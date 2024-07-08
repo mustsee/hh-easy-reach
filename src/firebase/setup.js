@@ -9,11 +9,11 @@ const apiKey =
 
 const firebaseConfig = {
   apiKey,
-  authDomain: "hh-er-2.firebaseapp.com",
-  projectId: "hh-er-2",
-  storageBucket: "hh-er-2.appspot.com",
-  messagingSenderId: "45329467843",
-  appId: "1:45329467843:web:4f7bc56be4cc4e88b2d576"
+  authDomain: "hh-easy-reach.firebaseapp.com",
+  projectId: "hh-easy-reach",
+  storageBucket: "hh-easy-reach.appspot.com",
+  messagingSenderId: "180032379271",
+  appId: "1:180032379271:web:0d70108e46a2d661fd1b22"
 }
 
 const firebaseApp = initializeApp(firebaseConfig)
