@@ -9,7 +9,7 @@ const apiKey =
 
 const firebaseConfig = {
   apiKey,
-  authDomain: "hh-easy-reach-428318.firebaseapp.com",
+  authDomain: "hh-easy-reach.firebaseapp.com",
   projectId: "hh-easy-reach",
   storageBucket: "hh-easy-reach.appspot.com",
   messagingSenderId: "180032379271",
