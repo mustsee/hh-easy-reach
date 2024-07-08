@@ -27,6 +27,6 @@ if (import.meta.env.MODE !== 'production') {
 const functionBaseURL =
   import.meta.env.MODE !== 'production'
     ? 'http://localhost:5001/hh-easy-reach/us-central1/'
-    : 'https://europe-west2-hh-easy-reach.cloudfunctions.net/'
+    : 'https://us-central1-hh-easy-reach.cloudfunctions.net/'
 
 export { firebaseApp, firestoreDb, functionBaseURL }
