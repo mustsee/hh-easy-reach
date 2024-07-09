@@ -37,7 +37,7 @@ export const useMessagesStore = defineStore('messages', {
         messageType: 'emailMessage',
         name: 'Email Message',
         variables: ['guestFirstName', 'senderName', 'dayOfWeek'],
-        text: `Hi --guestFirstName--, this is --senderName-- from the Haystack Hostel. I hope you are well and thanks again for booking with us.\nCould you please let us know what time you will be arriving on --dayOfWeek-- ? Also, could you please provide us with your WhatsApp number if you have one?\nYou are welcome to leave your bags in reception before check in at 3pm.\nPlease keep in mind we are on the top floor of a four storey building so there are quite a few steps to reach reception. See you soon!`
+        text: `Hi --guestFirstName--, this is --senderName-- from the Haystack Hostel. I hope you are well and thanks again for booking with us.\nCould you please let us know what time you will be arriving on --dayOfWeek-- ? Also, could you please provide us with your WhatsApp number if you have one? Our WhatsApp is +44 7553 137828\nYou are welcome to leave your bags in reception before check in at 3pm.\nPlease keep in mind we are on the top floor of a four storey building so there are quite a few steps to reach reception. See you soon!`
       }
       /*       {
         custom: false,
